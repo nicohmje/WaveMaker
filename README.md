@@ -1,5 +1,5 @@
 # Wave Generator for TECQUIPMENT FC80-5
-Add-on accessory designed for the TECQUIPMENT 5m Flow and sediment transport channel.
+Add-on accessory designed for the TECQUIPMENT 5 meter Flow and sediment transport channel.
 
 Intended use is to simulate various waves, including rogue waves, which are chosen by the user through a computer or a Raspberry Pi. 
 
