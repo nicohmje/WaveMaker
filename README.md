@@ -1,4 +1,7 @@
 # Wave Generator for TECQUIPMENT FC80-5
+
+![the complete assembly](https://github.com/nicohmje/PID-ballonplate/blob/main/Complete_assembly.jpg?raw=true)
+
 Add-on accessory designed for the TECQUIPMENT 5 meter Flow and sediment transport channel.
 
 Intended use is to simulate various waves, including rogue waves, which are chosen by the user through a computer or a Raspberry Pi. 
