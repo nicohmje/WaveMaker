@@ -1,6 +1,6 @@
 # Wave Generator for TECQUIPMENT FC80-5
 
-![the complete assembly](https://github.com/nicohmje/PID-ballonplate/blob/main/Complete_assembly.jpg?raw=true)
+![the complete assembly](https://github.com/nicohmje/wave_generator/blob/main/wave_gen_pic.jpeg?raw=true)
 
 Add-on accessory designed for the TECQUIPMENT 5 meter Flow and sediment transport channel.
 
