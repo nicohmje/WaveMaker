@@ -33,6 +33,16 @@ Every part fits together nicely. The U2D2 cables that go all the way to the serv
 
 The servos are held in place by screws, but a lack of the right sized screw prevents the crankshaft from being bolted to the motors; they are friction fitted, which works well but requires good alignment to work reliably. The plunger and shaft interface nicely with each other, with some light sanding done to the latter to improve surface finish.
 
+
+## Equations
+
+Inverse kinematics (wave -> motor pos) have not been established (yet). For future reference, these papers should help : 
+
+B. Sun, C. Li, S. Yang, and H. Zhang, “A simplified method and numerical simulation for wedge-shaped plunger wavemaker,”
+T. Mikkola, “Time accurate simulation of a plunger type wave maker using unstructured finite volume solver with surface tracking,”
+C. Hirt and B. Nichols, “Volume of fluid (vof) method for the dynamics of free boundaries,”
+B. Sun, C. Li, S. Yang, and H. Zhang, “A simplified method and numerical simulation for wedge-shaped plunger wavemaker,”
+
 ## Testing
 
 This has not been tested as of 24/11. 
