@@ -6,7 +6,7 @@ Add-on accessory designed for the TECQUIPMENT 5 meter Flow and sediment transpor
 
 Intended use is to simulate various waves, including rogue waves, which are chosen by the user through a computer or a Raspberry Pi. 
 
-Mechanical design inspired by FC80N Wave Generator, but using two Dynamixel XL330-M288 servos and 3D printed parts. 
+Mechanical design inspired by the FC80N Wave Generator, but using two Dynamixel XL330-M288 servos and 3D printed parts. 
 
 ## Design / CAD  
 
